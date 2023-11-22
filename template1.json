@@ -1,0 +1,7 @@
+[
+    {"name": "Alice", "age": 28, "hobby": "Reading"},
+    {"name": "Bob", "age": 35, "hobby": "Gardening"},
+    {"name": "Charlie", "age": 22, "hobby": "Painting"},
+    {"name": "David", "age": 40, "hobby": "Traveling"},
+    {"name": "Eva", "age": 31, "hobby": "Cooking"}
+]
