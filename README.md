@@ -20,4 +20,5 @@ Repository for design pattern tasks.
 ### Additional files:
 - template1.csv
 - template1.json
+
 Both files are used for data loading in *template1* program.
