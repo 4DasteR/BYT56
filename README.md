@@ -14,6 +14,7 @@ Repository for design pattern tasks.
 
 ### Template Method:
 **template1.py** - program, which allows loading a list of dictionaries from either *.csv* or *.json*, displaying the loaded content and saving it to respective file format.
+
 **template2.py** - program that can be used to generate sequences, notably fibonacci sequence of *n* elements and sequence of *n* chars starting with 'A'.
 
 ### Additional files:
